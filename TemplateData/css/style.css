@@ -5,8 +5,8 @@ body{
 	height:100%;
 	width:100%;
 	background-size:cover;
-	font-style: normal;
-	font-family: 'Noto Sans TC',"Myriad Pro", Myriad,"Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-style: regular;
+	font-family:"Myriad Pro", Myriad,"Helvetica Neue", Helvetica, Arial, sans-serif;
 	background-color:#f0f0f1;
 }
 
@@ -88,8 +88,8 @@ body{
 }
 
 #progressBar{
-	height:8vh;
-	color:#666666;
+	height:16vh;
+	color:#FFFFFF;
 	font-size:4vh;
 }
 
